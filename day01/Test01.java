@@ -1,23 +1,23 @@
 /**
-	µÚÒ»¸ö³ÌĞòµÄÁ·Ï°: 
-	´´½¨Èı¸öÀà
-	´òÓ¡ÄãµÄÃû×Ö,¼®¹áºÍ°®ºÃ
+	ç»—îƒ¿ç«´æ¶“î†â–¼æ´å¿•ç²Œæ¶”?
+	é’æ¶˜ç¼“æ¶“å¤‰é‡œç»«?
+	éµæ’³åµƒæ¿®æ’³æ‚•ç»«å¶ˆç–®éœå²€åŸæ¿‚?
 */
 
 public class Test01 {
 	public static void main(String[] args) {
-		System.out.println("ĞÕÃû: zhangxinxin");
+		System.out.println("å§“å: zhangxinxin");
 	}
 }
 
 class Address {
 	public static void main(String[] args) {
-		System.out.println("ĞÔ±ğ: ÄĞ");
+		System.out.println("ç±è´¯: æ²³åŒ—");
 	}
 }
 
 class Hobby {
 	public static void main(String[] args) {
-		System.out.println("°®ºÃ: ´òÓğÃ«Çò");
+		System.out.println("çˆ±å¥½: æ‰“ç¾½æ¯›çƒ");
 	}
 }
