@@ -15,7 +15,7 @@ class Address {
 		System.out.println("籍贯: 河北");
 	}
 }
-// 
+
 
 class Hobby {
 	public static void main(String[] args) {
