@@ -16,7 +16,6 @@ class Address {
 	}
 }
 
-
 class Hobby {
 	public static void main(String[] args) {
 		System.out.println("爱好: 打羽毛球");
