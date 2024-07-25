@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/javase_learn_end.iml" filepath="$PROJECT_DIR$/javase_learn_end.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/learn_javase.iml" filepath="$PROJECT_DIR$/learn_javase.iml" />
+>>>>>>> ef82c6425c804d3b69d83d2da2b44312f3a6a938
     </modules>
   </component>
 </project>
